@@ -1,7 +1,7 @@
 
 #TIC TAC TOE GAME
-#CS161 LAB 10
-#Author Mijash Ghimire got advise from Josh 
+#Student Western Oregon University
+#Author Mijash Ghimire
 #3/17/2020
 
 
